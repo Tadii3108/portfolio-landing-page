@@ -12,7 +12,7 @@ body {
 }
 
 img {
-    width: 100%
+    width: 100%;
 }
 
 .logo {
@@ -38,7 +38,6 @@ img {
 
 .contact {
     position: fixed;
-    /* color: rgb(124, 124, 124); */
     color: #fff;
     font-size: 12px;
     font-family: Poppins;
@@ -104,7 +103,6 @@ h1 {
 }
 
 p {
-    /* color: rgb(95, 95, 95); */
     color: #fff;
     font-weight: 200;
     font-family: "Roboto";

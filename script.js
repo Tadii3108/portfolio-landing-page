@@ -95,10 +95,12 @@ var t1 = new TimelineMax();
         ease: Expo.easeInOut
     }, "-=5").to(".ringOne", 4, {
         delay: 0.4,
+        opacity: 0,
         x: 40,
         ease: Expo.easeInOut
     }).to(".ringTwo", 4, {
         delay: 0.9,
+        opacity: 0,
         x: 40,
         ease: Expo.easeInOut
     },"-=5");
