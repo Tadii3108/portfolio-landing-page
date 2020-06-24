@@ -131,7 +131,6 @@ button {
 }
 
 #two {
-    /* background: linear-gradient(135deg, rgb(106, 219, 157) 0%, rgb(23, 167, 88) 100%); */
     background: #fff;
     color: #0a0a0a;
 }
@@ -152,6 +151,10 @@ button {
     color: #fcd734;
     padding: 12px 0;
     display: inline-block !important;
+}
+
+a {
+    color: #fcd734;
 }
 
 .bottom-text {
