@@ -7,7 +7,7 @@ html, body {
 }
 
 body {
-    background: url(img/hero.jpg) no-repeat 50% 50%;
+    background: url(img/blue-orange.jpg) no-repeat 50% 50%;
     background-size: cover;
 }
 
@@ -38,7 +38,8 @@ img {
 
 .contact {
     position: fixed;
-    color: rgb(124, 124, 124);
+    /* color: rgb(124, 124, 124); */
+    color: #fff;
     font-size: 12px;
     font-family: Poppins;
     letter-spacing: 2px;
@@ -90,7 +91,7 @@ img {
 }
 
 h1 {
-    color: #fff;
+    color: #fcd734;
     font-family: "Roboto";
     font-weight: bolder !important;
     font-size: 46px !important;
@@ -103,7 +104,8 @@ h1 {
 }
 
 p {
-    color: rgb(95, 95, 95);
+    /* color: rgb(95, 95, 95); */
+    color: #fff;
     font-weight: 200;
     font-family: "Roboto";
     line-height: 28px;
@@ -131,13 +133,14 @@ button {
 }
 
 #two {
-    background: linear-gradient(135deg, rgb(106, 219, 157) 0%, rgb(23, 167, 88) 100%);
+    /* background: linear-gradient(135deg, rgb(106, 219, 157) 0%, rgb(23, 167, 88) 100%); */
+    background: #fcd734;
     color: #0a0a0a;
 }
 
 .media {
     position: absolute;
-    top: 38;
+    top: 38%;
     z-index: 1;
     right: 6%;
 }
@@ -148,7 +151,7 @@ button {
 }
 
 .media ul li {
-    color: grey;
+    color: #fcd734;
     padding: 12px 0;
     display: inline-block !important;
 }
@@ -156,7 +159,7 @@ button {
 .bottom-text {
     position: absolute;
     z-index: 1;
-    color: grey;
+    color: #fcd734;
     font-size: 18px;
     font-family: monospace;
     margin-left: 2em;
@@ -166,7 +169,7 @@ button {
 .copyright {
     position: absolute;
     z-index: 1;
-    color: grey;
+    color: #fff;
     font-size: 15px;
     font-family: "Roboto";
     font-weight: 100;
